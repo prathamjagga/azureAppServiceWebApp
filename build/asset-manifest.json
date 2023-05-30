@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb8cce8e.css",
+    "main.js": "/static/js/main.e7c40d21.js",
+    "static/media/meal.mp4": "/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/gallery01.png": "/static/media/gallery01.0da5672dcf10bb2c5416.png",
+    "static/media/findus.png": "/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/static/media/laurels.5407a0788c32a29f7162.png",
+    "static/media/gallery04.png": "/static/media/gallery04.441f7830dfdf6a0ebb1b.png",
+    "static/media/gallery02.png": "/static/media/gallery02.f8ce8e107792539b912f.png",
+    "static/media/chef.png": "/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/gallery03.png": "/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/overlaybg.png": "/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/home.jpg": "/static/media/home.0d0fbb2abaf1daaa6d3e.jpg",
+    "static/media/G.png": "/static/media/G.0f104a34554720eca85c.png",
+    "static/media/knife.png": "/static/media/knife.ade70323f7c4de2a1d97.png",
+    "static/media/menu.png": "/static/media/menu.38cadc512a543a2452ce.png",
+    "static/media/sign.png": "/static/media/sign.fe575fdaa1bf5895da62.png",
+    "static/media/gericht.svg": "/static/media/gericht.b13f8681f32796240ed59727bda7e303.svg",
+    "static/media/logo.png": "/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/index.html",
+    "static/media/spoon.svg": "/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
+    "main.fb8cce8e.css.map": "/static/css/main.fb8cce8e.css.map",
+    "main.e7c40d21.js.map": "/static/js/main.e7c40d21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8cce8e.css",
+    "static/js/main.e7c40d21.js"
+  ]
+}
